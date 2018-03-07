@@ -1,8 +1,18 @@
+
+
 body{
-    background-color: cornflowerblue
+  background-image: url(https://michaeljarmer.files.wordpress.com/2015/12/the-milky-way.jpg);
+  font-family: 'Trebuchet MS';
+  color:whitesmoke;
+
 }
 
 h1{
     font-family: 'Rammetto One', cursive;
     color: bisque
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: wheat
+ 
 }
